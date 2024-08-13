@@ -12,13 +12,6 @@
 - 👯 I’m looking to collaborate on **Projects that involve financial analysis**
 
 - 🤝 I’m looking for help with **Financial Reporting**
-
-- 📫 How to reach me **jubayedahmed2001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/119yRaOEKPz1zaZgSCbIrhHOXOiiJXL_s/view?usp=drive_link](https://drive.google.com/file/d/119yRaOEKPz1zaZgSCbIrhHOXOiiJXL_s/view?usp=drive_link)
-
-- ⚡ Fun fact **I once built a financial dashboard that helped my team make better investment decisions!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mdzubayed-ahmed-rakib99087a210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mdzubayed-ahmed-rakib99087a210" height="30" width="40" /></a>
