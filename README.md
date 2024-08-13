@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md.Zubayed Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Md.Zubayed Ahmed Rakib </h1>
 <h3 align="center">Undergraduate BBA Student | Finance Enthusiast | Aspiring Data Analyst & Financial Modeler</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubayed-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zubayed-ahmed" /> </p>
@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubayed-ahmed&show_icons=true&locale=en" alt="zubayed-ahmed" /></p>
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm zubayed 👋
 
 I’m an undergraduate Finance student at United International University with a passion for data-driven financial analysis and modeling. I’m eager to apply my skills in real-world scenarios and collaborate on exciting projects.
 
