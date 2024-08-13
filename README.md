@@ -22,7 +22,7 @@
 
 # Hello, I'm zubayed 👋
 
-I’m an undergraduate Finance student at United International University with a passion for data-driven financial analysis and modeling. I’m eager to apply my skills in real-world scenarios and collaborate on exciting projects.
+I’m an undergraduate Finance student at United International University (UIU) with a passion for data-driven financial analysis and modeling. I’m eager to apply my skills in real-world scenarios and collaborate on exciting projects.
 
 ![Finance](https://www.example.com/finance-image.jpg) <!-- Replace with an image relevant to finance -->
 
