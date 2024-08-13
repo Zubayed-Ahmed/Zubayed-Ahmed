@@ -20,7 +20,7 @@
 
 I’m an undergraduate Finance student at United International University (UIU) with a passion for data-driven financial analysis and modeling. I’m eager to apply my skills in real-world scenarios and collaborate on exciting projects.
 
-![Finance](https://www.example.com/finance-image.jpg) <!-- Replace with an image relevant to finance -->
+![Financial Modelig](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.linkedin.com%2Fcompany%2Ffinancial-modeling-prep&psig=AOvVaw3-hxVJtyW5CXwVDcEh56MK&ust=1723605243216000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi15YeA8YcDFQAAAAAdAAAAABAE) <!-- Replace with an image relevant to finance -->
 
 ## 🚀 Current Projects
 
